@@ -10,3 +10,8 @@ Elasticsearch 7.17 + IK 分词器
 Nacos 2.2+（服务注册与配置中心）
 MinIO（对象存储，替代阿里 OSS）
 RabbitMQ / Kafka（可选，部分功能依赖）
+检查 bootstrap.yml 中的 spring.profiles.active
+初始化数据库
+配置 Nacos
+启动依赖中间件
+启动微服务
