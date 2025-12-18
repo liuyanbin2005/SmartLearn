@@ -1,0 +1,5 @@
+com\xuecheng\gateway\config\TokenConfig.class
+com\xuecheng\gateway\config\SecurityConfig.class
+com\xuecheng\GatewayApplication.class
+com\xuecheng\gateway\config\GatewayAuthFilter.class
+com\xuecheng\gateway\config\RestErrorResponse.class
